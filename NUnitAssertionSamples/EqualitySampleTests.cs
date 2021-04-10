@@ -55,6 +55,7 @@ namespace NUnitAssertionSamples
             // Arrange
             int num1 = 3; int num2 = 2; int expectedResult = 5;
 
+
             // Act
             int actulaResult = equalitySample.AddNumbers(num1, num2);
 
